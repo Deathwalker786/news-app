@@ -14,6 +14,13 @@
 + Customizing ListViews,using ArrayLists & ArrayAdapters.
 + Using progress bar and listview empty for better UX.
 
+## Things TODO
+
+- [x] The App is Working  :sweat_smile:
+- [ ] Preference Settings  
+- [ ] Better UI
+- [ ] Night Mode
+
 ## Screenshots
 
 <img src="https://github.com/mohammed2571994/news-app/blob/master/screenshots/normal.png" width="480" hieght="854">
