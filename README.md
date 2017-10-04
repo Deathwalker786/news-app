@@ -19,6 +19,7 @@
 - [x] The App is Working  :sweat_smile:
 - [ ] Preference Settings  
 - [ ] Better UI
+- [ ] Swipe to refresh
 - [ ] Night Mode
 
 ## Screenshots
